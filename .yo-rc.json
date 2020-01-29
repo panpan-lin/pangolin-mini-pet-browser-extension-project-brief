@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "pangolin mini pet browser extension",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "panpan-lin",
+    "githubRepository": "pangolin-mini-pet-browser-extension-project-brief"
+  }
+}
